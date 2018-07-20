@@ -152,7 +152,7 @@
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li><a href="http://togotv.dbcls.jp/20090508.html#p01" rel="nofollow">【使い方参考動画】</a><a href="http://lifesciencedb.jp/image/small_video_icon.png" rel="nofollow"><img src="http://lifesciencedb.jp/image/small_video_icon.png" alt="http://lifesciencedb.jp/image/small_video_icon.png" /></a></li>
 <li>1. <a href="http://www.reactome.org/" rel="nofollow">http://www.reactome.org/</a>を開きます。</li>
 <li>2.上部の「Tools」から「<span class="noexists">SkyPainter<a href="http://MotDB.DBCLS.jp/?cmd=edit&amp;page=SkyPainter&amp;refer=AJACS14.7">?</a></span>」をクリックします。</li>
-<li>3. 「参照」をクリックして、<a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS14.7&amp;openfile=090907_sample_U133A_adipo.txt" title="2009/12/07 17:19:13 5.9KB"><img src="image/file.png" width="20" height="20" alt="file" style="border-width:0px" />090907_sample_U133A_adipo.txt</a>をアップロードします。</li>
+<li>3. 「参照」をクリックして、<a href="090907_sample_U133A_adipo.txt" title="2009/12/07 17:19:13 5.9KB">090907_sample_U133A_adipo.txt</a>をアップロードします。</li>
 <li>4.「Focus species」を「Homo Sapiens」に設定します。</li>
 <li>5.「Paint!」をクリックします。</li>
 <li>6.結果が表示されます。</li>
