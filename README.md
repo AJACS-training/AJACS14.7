@@ -122,7 +122,7 @@
 
 <div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_12"><a id="zef09660" href="http://MotDB.DBCLS.jp/?AJACS14.7#zef09660" title="zef09660"><span class="sanchor">_</span></a> <a href="http://david.abcc.ncifcrf.gov/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">DAVID: The Database for Annotation, Visualization and Integrated Discovery</span></a>  </h3>
 <p><span style="color:green">マイクロアレイデータの生物学的な解釈</span></p>
-<div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS14.7&amp;openfile=microarray.analysis.005.png" title="microarray.analysis.005.png"><img src="http://MotDB.DBCLS.jp/?plugin=ref&amp;page=AJACS14.7&amp;src=microarray.analysis.005.png" alt="microarray.analysis.005.png" title="microarray.analysis.005.png" width="410" height="242" /></a></div>
+<div class="img_margin" style="text-align:left"><img src="microarray.analysis.005.png" alt="microarray.analysis.005.png" title="microarray.analysis.005.png" width="410" height="242" /></div>
 
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>上で述べたマイクロアレイの結果の解析は、統計解析で、それらの遺伝子が生物学的にどういう意味を持つかわかりません。</li>
 <li>そこで、Gene Ontologyの用語を付与することで、生物学的な解釈を行います。</li>
@@ -131,7 +131,7 @@
 <div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_13"><a id="y04a402a" href="http://MotDB.DBCLS.jp/?AJACS14.7#y04a402a" title="y04a402a">_</a> 【実習】DAVIDを用いて、発現データの結果を生物学的に解釈する  </h3>
 <ul class="list1" style="padding-left:16px;margin-left:16px"><li>1. 上部メニューの「Start Analysis」をクリック</li>
 <li>2. 画面左側バーで、probe IDリストをコピペ or ファイルを指定
-<ul class="list2" style="padding-left:16px;margin-left:16px"><li>今回は、統合TVと同じ、NCBI GEOより取得した公共の遺伝子発現データ（GSE1657:Adipocyte Differentiation [Homo sapiens]）を用いて、ヒトの脂肪細胞の分化過程で発現増加した<a href="http://motdb.dbcls.jp/?plugin=attach&amp;refer=AJACS12%2Fhono3&amp;openfile=090907_sample_U133A_adipo.txt" rel="nofollow">上位500個の遺伝子群のリスト</a>を使って説明しています。</li></ul></li>
+<ul class="list2" style="padding-left:16px;margin-left:16px"><li>今回は、統合TVと同じ、NCBI GEOより取得した公共の遺伝子発現データ（GSE1657:Adipocyte Differentiation [Homo sapiens]）を用いて、ヒトの脂肪細胞の分化過程で発現増加した<a href="090907_sample_U133A_adipo.txt" rel="nofollow">上位500個の遺伝子群のリスト</a>を使って説明しています。</li></ul></li>
 <li>3. リストのIDの種類タイプを選択 … 今回は、「AFFY_ID」と「Gene List」</li>
 <li>4. Submit List をクリック → 読み込まれる</li>
 <li>5. 今、アップロードしたリストは、左側バーの「List Manager」で「Uploaded List_1」として保存されています。削除やrenameもできます。</li>
@@ -142,7 +142,7 @@
 <a name="plugin_fold_anchor1"></a>
 <div class="plugin_fold_title_plus" onclick="return plugin_fold_onclick(this,event,'plugin_fold_anchor1')"><p>結果</p>
 </div>
-<div class="plugin_fold_body"><div class="img_margin" style="text-align:left"><a href="http://MotDB.DBCLS.jp/?plugin=attach&amp;refer=AJACS14.7&amp;openfile=david.go_bp.png" title="david.go_bp.png"><img src="http://MotDB.DBCLS.jp/?plugin=ref&amp;page=AJACS14.7&amp;src=david.go_bp.png" alt="david.go_bp.png" title="david.go_bp.png" width="750" height="649" /></a></div>
+<div class="plugin_fold_body"><div class="img_margin" style="text-align:left"><img src="david.go_bp.png" title="david.go_bp.png" width="750" height="649" /></div>
 
 </div></li>
 <li>[応用編] Pathways &gt; KEGG_PATHWAY や Tissue Expression &gt; UP_TISSUE なども見てみよう。生物学的にどういうことが言えるだろうか。</li>
