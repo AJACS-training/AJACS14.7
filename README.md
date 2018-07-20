@@ -29,7 +29,8 @@
 <div class="spacer">&nbsp;</div>
 <div class="spacer">&nbsp;</div>
 <hr class="short_line" />
-<p><span style="font-size:25px;display:inline-block;line-height:130%;text-indent:0px">遺伝子発現データベースを使い倒す</span>　　　　担当：小野浩雅</p>
+
+## 遺伝子発現データベースを使い倒す　　担当：小野浩雅
 
 <div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_2"><a id="t5ad14b0" href="http://MotDB.DBCLS.jp/?AJACS14.7#t5ad14b0" title="t5ad14b0"><span class="sanchor">_</span></a> <a href="https://biogps.gnf.org/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">BioGPS</span></a>  </h3>
 <p><span style="color:green">ヒト、マウス、ラットのさまざまな組織や細胞(株)における遺伝子発現プロファイルのデータベース</span></p>
@@ -118,7 +119,8 @@
 <div class="spacer">&nbsp;</div>
 <div class="spacer">&nbsp;</div>
 <hr class="short_line" />
-<p><span style="font-size:25px;display:inline-block;line-height:130%;text-indent:0px">遺伝子発現データの生物学的な解釈</span>　　　　担当：仲里猛留</p>
+
+## 遺伝子発現データの生物学的な解釈　　　　担当：仲里猛留
 
 <div class="jumpmenu"><a href="#navigator">&uarr;</a></div><h3 id="content_1_12"><a id="zef09660" href="http://MotDB.DBCLS.jp/?AJACS14.7#zef09660" title="zef09660"><span class="sanchor">_</span></a> <a href="http://david.abcc.ncifcrf.gov/" rel="nofollow"><span style="font-size:20px;display:inline-block;line-height:130%;text-indent:0px">DAVID: The Database for Annotation, Visualization and Integrated Discovery</span></a>  </h3>
 <p><span style="color:green">マイクロアレイデータの生物学的な解釈</span></p>
